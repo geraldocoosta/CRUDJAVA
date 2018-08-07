@@ -36,7 +36,7 @@ public class AtualizarPessoa extends JFrame {
 	private JTextField txSobrenome;
 	private JFormattedTextField txDataAniversario;
 	private JTextField txId;
-	Pessoa pessoa;
+	private Pessoa pessoa;
 	private final static MaskFormatter MASCARA_DATE = new MaskFormatter();
 	private int linhaSelecionada;
 
